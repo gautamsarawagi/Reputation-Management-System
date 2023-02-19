@@ -1,0 +1,9 @@
+// body-parser": "^1.19.0",
+// "cryptiles": "^4.1.1",
+// "express": "^4.17.1",
+// "home-dir": "^1.0.0",
+// "indy-sdk": "^1.14.0",
+// "mkdirp": "^0.5.1",
+// "node-fetch": "^2.6.0",
+// "readline-sync": "^1.4.10",
+// "sleep": "^6.1.0"

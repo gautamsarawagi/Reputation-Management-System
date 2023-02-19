@@ -1,0 +1,6 @@
+export const RED = "\x1b[31;01m"
+export const GREEN = "\x1b[32;01m"
+export const YELLOW = "\x1b[33;01m"
+export const BLUE = "\x1b[34;01m"
+export const MAGENTA = "\x1b[35;01m"
+export const CYAN = "\x1b[36;01m"
